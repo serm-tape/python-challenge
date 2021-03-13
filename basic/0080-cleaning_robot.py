@@ -4,7 +4,7 @@ W: move up
 A: move left
 S: move right
 D: move down 
-starting from coordiator (0,0)
+starting from coordiate (0,0)
 
 Input: WWWAASD
 Output: (-1, 2)

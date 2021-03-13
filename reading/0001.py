@@ -11,4 +11,3 @@ def doSomething(numbers):
     return numbers
 
 # doSomething([1, 2])
-    
