@@ -3,7 +3,8 @@
 def doSomething(numbers):
     if len(numbers) != 2:
         return None
-    else
+
+    else:
         a = numbers[0]
         numbers[0] = numbers[1]
         numbers[1] = a
